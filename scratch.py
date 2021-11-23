@@ -23,12 +23,6 @@ G.add_edges_from(edges)
 
 print(nx.info(G))
 
-hist_sig_dict = {}
-gender_dict = {}
-birth_dict = {}
-death_dict = {}
-id_dict = {}
-
 # Create an empty dictionary for each attribute
 hist_sig_dict = {}
 gender_dict = {}
