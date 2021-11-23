@@ -1,8 +1,7 @@
 import csv
 from operator import itemgetter
 import networkx as nx
-from networkx.algorithms import community
-import matplotlib.pyplot as plt
+
 
 with open('quakers_nodelist.csv', 'r') as nodecsv: # Open the file
     nodereader = csv.reader(nodecsv) # Read the csv
