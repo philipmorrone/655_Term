@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-11-22">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Joseph Wyeth" label="Joseph Wyeth" />
+      <node id="Alexander Skene of Newtyle" label="Alexander Skene of Newtyle" />
+      <node id="James Logan" label="James Logan" />
+      <node id="Dorcas Erbery" label="Dorcas Erbery" />
+      <node id="Lilias Skene" label="Lilias Skene" />
+      <node id="William Mucklow" label="William Mucklow" />
+      <node id="Thomas Salthouse" label="Thomas Salthouse" />
+      <node id="William Dewsbury" label="William Dewsbury" />
+      <node id="John Audland" label="John Audland" />
+      <node id="Richard Claridge" label="Richard Claridge" />
+      <node id="William Bradford" label="William Bradford" />
+      <node id="Fettiplace Bellers" label="Fettiplace Bellers" />
+      <node id="John Bellers" label="John Bellers" />
+      <node id="Isabel Yeamans" label="Isabel Yeamans" />
+      <node id="George Fox the younger" label="George Fox the younger" />
+      <node id="George Fox" label="George Fox" />
+      <node id="John Stubbs" label="John Stubbs" />
+      <node id="Anne Camm" label="Anne Camm" />
+      <node id="John Camm" label="John Camm" />
+      <node id="Thomas Camm" label="Thomas Camm" />
+      <node id="Katharine Evans" label="Katharine Evans" />
+      <node id="Lydia Lancaster" label="Lydia Lancaster" />
+      <node id="Samuel Clarridge" label="Samuel Clarridge" />
+      <node id="Thomas Lower" label="Thomas Lower" />
+      <node id="Gervase Benson" label="Gervase Benson" />
+      <node id="Stephen Crisp" label="Stephen Crisp" />
+      <node id="James Claypoole" label="James Claypoole" />
+      <node id="Thomas Holme" label="Thomas Holme" />
+      <node id="John Freame" label="John Freame" />
+      <node id="John Swinton" label="John Swinton" />
+      <node id="William Mead" label="William Mead" />
+      <node id="Henry Pickworth" label="Henry Pickworth" />
+      <node id="John Crook" label="John Crook" />
+      <node id="Gilbert Latey" label="Gilbert Latey" />
+      <node id="Ellis Hookes" label="Ellis Hookes" />
+      <node id="Joseph Besse" label="Joseph Besse" />
+      <node id="James Nayler" label="James Nayler" />
+      <node id="Elizabeth Hooten" label="Elizabeth Hooten" />
+      <node id="George Whitehead" label="George Whitehead" />
+      <node id="John Whitehead" label="John Whitehead" />
+      <node id="William Crouch" label="William Crouch" />
+      <node id="Benjamin Furly" label="Benjamin Furly" />
+      <node id="Silvanus Bevan" label="Silvanus Bevan" />
+      <node id="Robert Rich" label="Robert Rich" />
+      <node id="John Whiting" label="John Whiting" />
+      <node id="Christopher Taylor" label="Christopher Taylor" />
+      <node id="Thomas Lawson" label="Thomas Lawson" />
+      <node id="Richard Farnworth" label="Richard Farnworth" />
+      <node id="William Coddington" label="William Coddington" />
+      <node id="Thomas Taylor" label="Thomas Taylor" />
+      <node id="Richard Vickris" label="Richard Vickris" />
+      <node id="Robert Barclay" label="Robert Barclay" />
+      <node id="Jane Sowle" label="Jane Sowle" />
+      <node id="Tace Sowle" label="Tace Sowle" />
+      <node id="Leonard Fell" label="Leonard Fell" />
+      <node id="Margaret Fell" label="Margaret Fell" />
+      <node id="George Bishop" label="George Bishop" />
+      <node id="Elizabeth Leavens" label="Elizabeth Leavens" />
+      <node id="Thomas Curtis" label="Thomas Curtis" />
+      <node id="Alice Curwen" label="Alice Curwen" />
+      <node id="Alexander Parker" label="Alexander Parker" />
+      <node id="John Wilkinson" label="John Wilkinson" />
+      <node id="Thomas Aldam" label="Thomas Aldam" />
+      <node id="David Barclay of Ury" label="David Barclay of Ury" />
+      <node id="David Barclay" label="David Barclay" />
+      <node id="Sir Charles Wager" label="Sir Charles Wager" />
+      <node id="George Keith" label="George Keith" />
+      <node id="James Parnel" label="James Parnel" />
+      <node id="Peter Collinson" label="Peter Collinson" />
+      <node id="Franciscus Mercurius van Helmont" label="Franciscus Mercurius van Helmont" />
+      <node id="William Caton" label="William Caton" />
+      <node id="Francis Howgill" label="Francis Howgill" />
+      <node id="Richard Hubberthorne" label="Richard Hubberthorne" />
+      <node id="William Ames" label="William Ames" />
+      <node id="William Rogers" label="William Rogers" />
+      <node id="Isaac Norris" label="Isaac Norris" />
+      <node id="Anthony Sharp" label="Anthony Sharp" />
+      <node id="Mary Fisher" label="Mary Fisher" />
+      <node id="Anne Conway Viscountess Conway and Killultagh" label="Anne Conway Viscountess Conway and Killultagh" />
+      <node id="Samuel Fisher" label="Samuel Fisher" />
+      <node id="Francis Bugg" label="Francis Bugg" />
+      <node id="Sarah Gibbons" label="Sarah Gibbons" />
+      <node id="William Tomlinson" label="William Tomlinson" />
+      <node id="Humphrey Norton" label="Humphrey Norton" />
+      <node id="William Gibson" label="William Gibson" />
+      <node id="Gideon Wanton" label="Gideon Wanton" />
+      <node id="John Wanton" label="John Wanton" />
+      <node id="Grace Chamber" label="Grace Chamber" />
+      <node id="Mary Prince" label="Mary Prince" />
+      <node id="John Bartram" label="John Bartram" />
+      <node id="Edward Haistwell" label="Edward Haistwell" />
+      <node id="John ap John" label="John ap John" />
+      <node id="John Rous" label="John Rous" />
+      <node id="Anthony Pearson" label="Anthony Pearson" />
+      <node id="Solomon Eccles" label="Solomon Eccles" />
+      <node id="John Burnyeat" label="John Burnyeat" />
+      <node id="Edward Burrough" label="Edward Burrough" />
+      <node id="Rebecca Travers" label="Rebecca Travers" />
+      <node id="William Edmundson" label="William Edmundson" />
+      <node id="Sarah Cheevers" label="Sarah Cheevers" />
+      <node id="Edward Pyott" label="Edward Pyott" />
+      <node id="Daniel Quare" label="Daniel Quare" />
+      <node id="John Penington" label="John Penington" />
+      <node id="Mary Penington" label="Mary Penington" />
+      <node id="Charles Marshall" label="Charles Marshall" />
+      <node id="Humphrey Woolrich" label="Humphrey Woolrich" />
+      <node id="William Penn" label="William Penn" />
+      <node id="Mary Pennyman" label="Mary Pennyman" />
+      <node id="Dorothy Waugh" label="Dorothy Waugh" />
+      <node id="David Lloyd" label="David Lloyd" />
+      <node id="Lewis Morris" label="Lewis Morris" />
+      <node id="Martha Simmonds" label="Martha Simmonds" />
+      <node id="John Story" label="John Story" />
+      <node id="Thomas Story" label="Thomas Story" />
+      <node id="Thomas Ellwood" label="Thomas Ellwood" />
+      <node id="William Simpson" label="William Simpson" />
+      <node id="Samuel Bownas" label="Samuel Bownas" />
+      <node id="John Perrot" label="John Perrot" />
+      <node id="Hannah Stranger" label="Hannah Stranger" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Joseph Wyeth" target="Thomas Ellwood" />
+      <edge id="1" source="Alexander Skene of Newtyle" target="Lilias Skene" />
+      <edge id="2" source="James Logan" target="Peter Collinson" />
+      <edge id="3" source="James Logan" target="John Bartram" />
+      <edge id="4" source="James Logan" target="William Penn" />
+      <edge id="5" source="James Logan" target="David Lloyd" />
+      <edge id="6" source="Dorcas Erbery" target="James Nayler" />
+      <edge id="7" source="William Mucklow" target="George Fox" />
+      <edge id="8" source="Thomas Salthouse" target="George Fox" />
+      <edge id="9" source="Thomas Salthouse" target="Margaret Fell" />
+      <edge id="10" source="William Dewsbury" target="Edward Burrough" />
+      <edge id="11" source="William Dewsbury" target="George Fox" />
+      <edge id="12" source="William Dewsbury" target="John Crook" />
+      <edge id="13" source="John Audland" target="John Camm" />
+      <edge id="14" source="John Audland" target="Francis Howgill" />
+      <edge id="15" source="John Audland" target="Edward Pyott" />
+      <edge id="16" source="John Audland" target="Charles Marshall" />
+      <edge id="17" source="John Audland" target="George Fox" />
+      <edge id="18" source="John Audland" target="Anne Camm" />
+      <edge id="19" source="Richard Claridge" target="Joseph Besse" />
+      <edge id="20" source="Richard Claridge" target="William Penn" />
+      <edge id="21" source="William Bradford" target="George Keith" />
+      <edge id="22" source="William Bradford" target="William Penn" />
+      <edge id="23" source="William Bradford" target="Tace Sowle" />
+      <edge id="24" source="Fettiplace Bellers" target="John Bellers" />
+      <edge id="25" source="Isabel Yeamans" target="William Penn" />
+      <edge id="26" source="George Fox the younger" target="Margaret Fell" />
+      <edge id="27" source="George Fox" target="George Keith" />
+      <edge id="28" source="George Fox" target="Francis Howgill" />
+      <edge id="29" source="George Fox" target="Ellis Hookes" />
+      <edge id="30" source="George Fox" target="William Mead" />
+      <edge id="31" source="George Fox" target="Elizabeth Hooten" />
+      <edge id="32" source="George Fox" target="Margaret Fell" />
+      <edge id="33" source="George Fox" target="John Crook" />
+      <edge id="34" source="George Fox" target="George Whitehead" />
+      <edge id="35" source="George Fox" target="Benjamin Furly" />
+      <edge id="36" source="George Fox" target="James Nayler" />
+      <edge id="37" source="George Fox" target="Edward Burrough" />
+      <edge id="38" source="George Fox" target="John Wilkinson" />
+      <edge id="39" source="George Fox" target="Thomas Ellwood" />
+      <edge id="40" source="George Fox" target="William Coddington" />
+      <edge id="41" source="George Fox" target="John Stubbs" />
+      <edge id="42" source="George Fox" target="John Perrot" />
+      <edge id="43" source="George Fox" target="Leonard Fell" />
+      <edge id="44" source="George Fox" target="William Penn" />
+      <edge id="45" source="John Stubbs" target="Benjamin Furly" />
+      <edge id="46" source="John Stubbs" target="William Caton" />
+      <edge id="47" source="John Stubbs" target="Samuel Fisher" />
+      <edge id="48" source="John Stubbs" target="John Burnyeat" />
+      <edge id="49" source="Anne Camm" target="Thomas Camm" />
+      <edge id="50" source="John Camm" target="Charles Marshall" />
+      <edge id="51" source="John Camm" target="Thomas Camm" />
+      <edge id="52" source="John Camm" target="Edward Pyott" />
+      <edge id="53" source="Thomas Camm" target="John Story" />
+      <edge id="54" source="Katharine Evans" target="Sarah Cheevers" />
+      <edge id="55" source="Lydia Lancaster" target="Grace Chamber" />
+      <edge id="56" source="Samuel Clarridge" target="Anthony Sharp" />
+      <edge id="57" source="Samuel Clarridge" target="James Claypoole" />
+      <edge id="58" source="Thomas Lower" target="Margaret Fell" />
+      <edge id="59" source="Gervase Benson" target="James Nayler" />
+      <edge id="60" source="Gervase Benson" target="Anthony Pearson" />
+      <edge id="61" source="Stephen Crisp" target="James Parnel" />
+      <edge id="62" source="Stephen Crisp" target="William Caton" />
+      <edge id="63" source="Stephen Crisp" target="Benjamin Furly" />
+      <edge id="64" source="James Claypoole" target="William Penn" />
+      <edge id="65" source="Thomas Holme" target="William Gibson" />
+      <edge id="66" source="Thomas Holme" target="Elizabeth Leavens" />
+      <edge id="67" source="John Freame" target="David Barclay" />
+      <edge id="68" source="John Swinton" target="David Barclay of Ury" />
+      <edge id="69" source="William Mead" target="Margaret Fell" />
+      <edge id="70" source="Henry Pickworth" target="Francis Bugg" />
+      <edge id="71" source="John Crook" target="John Perrot" />
+      <edge id="72" source="John Crook" target="Edward Burrough" />
+      <edge id="73" source="Gilbert Latey" target="Edward Burrough" />
+      <edge id="74" source="Gilbert Latey" target="George Whitehead" />
+      <edge id="75" source="Joseph Besse" target="Samuel Bownas" />
+      <edge id="76" source="James Nayler" target="Francis Howgill" />
+      <edge id="77" source="James Nayler" target="Martha Simmonds" />
+      <edge id="78" source="James Nayler" target="Hannah Stranger" />
+      <edge id="79" source="James Nayler" target="Margaret Fell" />
+      <edge id="80" source="James Nayler" target="Richard Farnworth" />
+      <edge id="81" source="James Nayler" target="George Whitehead" />
+      <edge id="82" source="James Nayler" target="John Perrot" />
+      <edge id="83" source="James Nayler" target="Robert Rich" />
+      <edge id="84" source="James Nayler" target="Anthony Pearson" />
+      <edge id="85" source="James Nayler" target="Thomas Ellwood" />
+      <edge id="86" source="James Nayler" target="Edward Burrough" />
+      <edge id="87" source="James Nayler" target="Rebecca Travers" />
+      <edge id="88" source="James Nayler" target="William Tomlinson" />
+      <edge id="89" source="George Whitehead" target="George Keith" />
+      <edge id="90" source="George Whitehead" target="William Rogers" />
+      <edge id="91" source="George Whitehead" target="Francis Bugg" />
+      <edge id="92" source="George Whitehead" target="Richard Hubberthorne" />
+      <edge id="93" source="George Whitehead" target="Alexander Parker" />
+      <edge id="94" source="George Whitehead" target="John Whitehead" />
+      <edge id="95" source="George Whitehead" target="Daniel Quare" />
+      <edge id="96" source="George Whitehead" target="William Penn" />
+      <edge id="97" source="George Whitehead" target="John Story" />
+      <edge id="98" source="George Whitehead" target="Rebecca Travers" />
+      <edge id="99" source="William Crouch" target="Francis Howgill" />
+      <edge id="100" source="William Crouch" target="Edward Burrough" />
+      <edge id="101" source="Benjamin Furly" target="George Keith" />
+      <edge id="102" source="Benjamin Furly" target="James Parnel" />
+      <edge id="103" source="Benjamin Furly" target="Franciscus Mercurius van Helmont" />
+      <edge id="104" source="Benjamin Furly" target="Robert Barclay" />
+      <edge id="105" source="Benjamin Furly" target="Alexander Parker" />
+      <edge id="106" source="Benjamin Furly" target="William Caton" />
+      <edge id="107" source="Benjamin Furly" target="William Penn" />
+      <edge id="108" source="Silvanus Bevan" target="Daniel Quare" />
+      <edge id="109" source="Robert Rich" target="William Tomlinson" />
+      <edge id="110" source="John Whiting" target="Christopher Taylor" />
+      <edge id="111" source="Christopher Taylor" target="Thomas Taylor" />
+      <edge id="112" source="Thomas Lawson" target="Margaret Fell" />
+      <edge id="113" source="Thomas Lawson" target="Alexander Parker" />
+      <edge id="114" source="Richard Farnworth" target="Francis Howgill" />
+      <edge id="115" source="Richard Farnworth" target="Richard Hubberthorne" />
+      <edge id="116" source="Richard Farnworth" target="John Perrot" />
+      <edge id="117" source="Richard Farnworth" target="Margaret Fell" />
+      <edge id="118" source="Richard Farnworth" target="Anthony Pearson" />
+      <edge id="119" source="Richard Vickris" target="George Bishop" />
+      <edge id="120" source="Robert Barclay" target="George Keith" />
+      <edge id="121" source="Robert Barclay" target="David Barclay of Ury" />
+      <edge id="122" source="Jane Sowle" target="Tace Sowle" />
+      <edge id="123" source="Tace Sowle" target="William Penn" />
+      <edge id="124" source="Margaret Fell" target="William Caton" />
+      <edge id="125" source="Margaret Fell" target="William Penn" />
+      <edge id="126" source="Margaret Fell" target="Alexander Parker" />
+      <edge id="127" source="Margaret Fell" target="Elizabeth Leavens" />
+      <edge id="128" source="Margaret Fell" target="Anthony Pearson" />
+      <edge id="129" source="Thomas Curtis" target="Anthony Sharp" />
+      <edge id="130" source="Thomas Curtis" target="Mary Penington" />
+      <edge id="131" source="Thomas Curtis" target="Thomas Ellwood" />
+      <edge id="132" source="Thomas Curtis" target="William Simpson" />
+      <edge id="133" source="Thomas Curtis" target="John Story" />
+      <edge id="134" source="Alice Curwen" target="Rebecca Travers" />
+      <edge id="135" source="Alexander Parker" target="John Wilkinson" />
+      <edge id="136" source="Alexander Parker" target="Sir Charles Wager" />
+      <edge id="137" source="John Wilkinson" target="Charles Marshall" />
+      <edge id="138" source="John Wilkinson" target="Solomon Eccles" />
+      <edge id="139" source="John Wilkinson" target="John Story" />
+      <edge id="140" source="Thomas Aldam" target="Anthony Pearson" />
+      <edge id="141" source="Sir Charles Wager" target="Lewis Morris" />
+      <edge id="142" source="George Keith" target="Anne Conway Viscountess Conway and Killultagh" />
+      <edge id="143" source="George Keith" target="Franciscus Mercurius van Helmont" />
+      <edge id="144" source="George Keith" target="William Penn" />
+      <edge id="145" source="Peter Collinson" target="John Bartram" />
+      <edge id="146" source="William Caton" target="William Ames" />
+      <edge id="147" source="Francis Howgill" target="Martha Simmonds" />
+      <edge id="148" source="Francis Howgill" target="Edward Burrough" />
+      <edge id="149" source="William Rogers" target="Thomas Ellwood" />
+      <edge id="150" source="Isaac Norris" target="William Penn" />
+      <edge id="151" source="Anthony Sharp" target="William Edmundson" />
+      <edge id="152" source="Mary Fisher" target="John Perrot" />
+      <edge id="153" source="Mary Fisher" target="Mary Prince" />
+      <edge id="154" source="Sarah Gibbons" target="Dorothy Waugh" />
+      <edge id="155" source="Humphrey Norton" target="John Rous" />
+      <edge id="156" source="Gideon Wanton" target="John Wanton" />
+      <edge id="157" source="Mary Prince" target="John Perrot" />
+      <edge id="158" source="Edward Haistwell" target="William Penn" />
+      <edge id="159" source="John ap John" target="John Burnyeat" />
+      <edge id="160" source="Solomon Eccles" target="John Story" />
+      <edge id="161" source="John Burnyeat" target="William Edmundson" />
+      <edge id="162" source="John Burnyeat" target="William Penn" />
+      <edge id="163" source="Edward Burrough" target="John Perrot" />
+      <edge id="164" source="Edward Burrough" target="Thomas Ellwood" />
+      <edge id="165" source="Rebecca Travers" target="William Penn" />
+      <edge id="166" source="John Penington" target="Mary Penington" />
+      <edge id="167" source="Mary Penington" target="William Penn" />
+      <edge id="168" source="Mary Penington" target="Thomas Ellwood" />
+      <edge id="169" source="Humphrey Woolrich" target="Mary Pennyman" />
+      <edge id="170" source="William Penn" target="Thomas Story" />
+      <edge id="171" source="William Penn" target="David Lloyd" />
+      <edge id="172" source="Martha Simmonds" target="Hannah Stranger" />
+      <edge id="173" source="John Story" target="Thomas Ellwood" />
+    </edges>
+  </graph>
+</gexf>
