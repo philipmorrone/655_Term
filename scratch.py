@@ -33,4 +33,6 @@ for d in sorted_degree[:20]:
 
 nx.write_gexf(G, "test11.gexf")
 
+#afsafdsf
+
 
